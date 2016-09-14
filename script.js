@@ -1,0 +1,1 @@
+$(".active-page").onclick(function(event) { event.preventDefault(); });
